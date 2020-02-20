@@ -1,0 +1,10 @@
+Sectionline is not consistent throughout. 
+How to make bullets in projects.
+Review content. 
+Ask about teaching and mentoring? Should it be POR
+Whether to keep 10, 12 education?
+
+---------------
+Date - Feb 19, 2020
+Sync from Overleaf to Github is not good (does not happen automatically)
+Need to setup it up locally and then sync to GitHub
