@@ -1,4 +1,4 @@
 ## Settings to sync between local/overleaf/github
 
 Better - https://www.youtube.com/watch?v=6OqFEfH7lBY
-OK - https://ineed.coffee/3454/how-to-synchronize-an-overleaf-latex-paper-with-a-github-repository/
+OK - https://ineed.coffee/3454/how-to-synchronize-an-overleaf-latex-paper-with-a-github-repository/ (Both settings is interesting on this page)
