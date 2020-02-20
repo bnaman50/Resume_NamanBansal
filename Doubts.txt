@@ -5,6 +5,5 @@ Ask about teaching and mentoring? Should it be POR
 Whether to keep 10, 12 education?
 
 ---------------
-Date - Feb 19, 2020
-Sync from Overleaf to Github is not good (does not happen automatically)
-Need to setup it up locally and then sync to GitHub
+TODO:
+This is what I want - sync between Github, local and drive (no overleaf business)
