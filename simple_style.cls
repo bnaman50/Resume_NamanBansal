@@ -255,6 +255,7 @@
 % the page with a hline in between
 
 \def\namefont{\huge\bf\sc}
+% \def\qualificationfont{\small\sc}
 \def\qualificationfont{\small\sc}
 \def\detailsfont{\footnotesize}
 \def\@linename{\begingroup
